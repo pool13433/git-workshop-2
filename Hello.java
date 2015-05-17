@@ -8,4 +8,7 @@ class Hello{
 	public String printName(String name){
 		return name;
 	}
+	public String printName(String name){
+		return name;
+	}
 }
